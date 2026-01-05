@@ -40,23 +40,19 @@ The application allows users to input any text comment and instantly receive a s
 
 ## How to Run the Project
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+### Step 1: Clone the repository
+git clone https://github.com/Jayanth717/Sentiment-Analysis.git
 
-2. Navigate to the project directory:
-```bash
+
+### Step 2: Navigate to the project directory
 cd Sentiment-Analysis
 
-3. Install dependencies:
-```bash
+### Step 3: Install dependencies
 pip install -r requirements.txt
 
-4. Run the application:
-```bash
+### Step 4: Run the application
 python Final_Project.py
 
-```bash
-Author
-**Jayanth Kumar**
+
+
 
