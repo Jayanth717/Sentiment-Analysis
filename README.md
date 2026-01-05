@@ -45,13 +45,18 @@ The application allows users to input any text comment and instantly receive a s
 git clone https://github.com/your-username/your-repo-name.git
 
 2. Navigate to the project directory:
+```bash
 cd Sentiment-Analysis
 
 3. Install dependencies:
+```bash
 pip install -r requirements.txt
 
-4. python Final_Project.py
+4. Run the application:
+```bash
+python Final_Project.py
 
+```bash
 Author
 **Jayanth Kumar**
 
