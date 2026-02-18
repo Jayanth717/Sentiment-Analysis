@@ -53,6 +53,8 @@ pip install -r requirements.txt
 ### Step 4: Run the application
 python Final_Project.py
 
+## Author
+Jayanth Kumar
 
 
 
